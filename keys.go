@@ -532,6 +532,7 @@ var nativeProgramIDs = PublicKeySlice{
 	StakeProgramID,
 	VoteProgramID,
 	Secp256k1ProgramID,
+	Ed25519ProgramID,
 	SystemProgramID,
 	SysVarClockPubkey,
 	SysVarEpochSchedulePubkey,
