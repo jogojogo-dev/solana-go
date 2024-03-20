@@ -80,4 +80,6 @@ var (
 
 var (
 	TokenMetadataProgramID = MustPublicKeyFromBase58("metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s")
+
+	XNFTProgramID = MustPublicKeyFromBase58("xnft5aaToUM4UFETUQfj7NUDUBdvYHTVhNFThEYTm55")
 )
